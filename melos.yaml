@@ -1,0 +1,9 @@
+name: test_sample
+
+packages:
+  - packages/**
+
+
+scripts:
+  postclean: >
+    melos exec --flutter -- "flutter clean"

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/05_handle_scrolling/build" />
+      <excludeFolder url="file://$MODULE_DIR$/05_handle_scrolling/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/05_handle_scrolling/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/08_performance_profiling/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/08_performance_profiling/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/08_performance_profiling/build" />
+      <excludeFolder url="file://$MODULE_DIR$/01_unit_test_simple/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/01_unit_test_simple/build" />
+      <excludeFolder url="file://$MODULE_DIR$/01_unit_test_simple/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/06_tap_drag_enter_text/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/06_tap_drag_enter_text/build" />
+      <excludeFolder url="file://$MODULE_DIR$/06_tap_drag_enter_text/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/03_widget_test_simple/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/03_widget_test_simple/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/03_widget_test_simple/build" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/07_integration_test/build" />
+      <excludeFolder url="file://$MODULE_DIR$/07_integration_test/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/07_integration_test/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/04_find_widget/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/04_find_widget/build" />
+      <excludeFolder url="file://$MODULE_DIR$/04_find_widget/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/02_unit_test_mock/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/02_unit_test_mock/build" />
+      <excludeFolder url="file://$MODULE_DIR$/02_unit_test_mock/.pub" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 33, extension level 4 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
